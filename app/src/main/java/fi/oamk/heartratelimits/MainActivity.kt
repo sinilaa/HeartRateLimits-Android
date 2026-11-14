@@ -71,7 +71,6 @@ fun HeartRateLimits(modifier: Modifier = Modifier) {
     }
 }
 
-// Preview allows us to see the composable in Android Studio
 @Preview(showBackground = true)
 @Composable
 fun HeartRateLimitsPreview() {
